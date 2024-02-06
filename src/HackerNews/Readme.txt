@@ -1,1 +1,0 @@
-Cross-platform project using .net MANU
